@@ -1,8 +1,11 @@
 .cis260specialgreen{
     color: #47d151
 }
-#cis-special-parent a {
+#cis-special-parent {
     
-    color: crimson
+    color: #f089bd
     
 }
+ #cis-special-parent a {
+            color: #47d151;
+        }
