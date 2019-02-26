@@ -21,3 +21,7 @@ body {
 .headingsandlinks {
     font-family: cursive; color: white;
 }
+
+a {
+    text-decoration: inherit;
+}
